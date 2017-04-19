@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ShowCase.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\PCH.ShowCase.h.obj"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\ShowCase.cpp.obj"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\ShowCaseCharacter.cpp.obj"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\ShowCaseGameMode.cpp.obj"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\ShowCaseHUD.cpp.obj"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\ShowCaseProjectile.cpp.obj"
+"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\ShowCase.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ShowCase\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\aepps\Documents\Unreal Projects\ShowCase\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ShowCase.lib"

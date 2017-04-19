@@ -1,0 +1,3 @@
+C:\Users\aepps\Documents\Unreal Projects\ShowCase\Source\ShowCase\ShowCase.Build.cs
+C:\Users\aepps\Documents\Unreal Projects\ShowCase\Source\ShowCase.Target.cs
+C:\Users\aepps\Documents\Unreal Projects\ShowCase\Source\ShowCaseEditor.Target.cs

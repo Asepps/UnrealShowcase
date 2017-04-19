@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ShowCase.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{596B86CE-65B5-48A5-A39E-FA6672F8D4CA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ShowCase.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ShowCaseEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{98975FAE-03A9-416D-8998-A8D34DBD6A1F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ShowCase">
+			<UniqueIdentifier>{FABECE31-30F9-488B-81A5-81D4F71EE401}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ShowCase\ShowCase.Build.cs">
+			<Filter>Source\ShowCase</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ShowCase\ShowCase.cpp">
+			<Filter>Source\ShowCase</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ShowCase\ShowCase.h">
+			<Filter>Source\ShowCase</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ShowCase\ShowCaseCharacter.cpp">
+			<Filter>Source\ShowCase</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ShowCase\ShowCaseCharacter.h">
+			<Filter>Source\ShowCase</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ShowCase\ShowCaseGameMode.cpp">
+			<Filter>Source\ShowCase</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ShowCase\ShowCaseGameMode.h">
+			<Filter>Source\ShowCase</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ShowCase\ShowCaseHUD.cpp">
+			<Filter>Source\ShowCase</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ShowCase\ShowCaseHUD.h">
+			<Filter>Source\ShowCase</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ShowCase\ShowCaseProjectile.cpp">
+			<Filter>Source\ShowCase</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ShowCase\ShowCaseProjectile.h">
+			<Filter>Source\ShowCase</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
